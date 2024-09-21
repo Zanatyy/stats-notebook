@@ -23,7 +23,7 @@ This Jupyter notebook provides a comprehensive introduction to descriptive stati
   1. Linear Correlation
   2. Linear Regression
   3. Multiple Regression
-
+- **Cluster Analysis**
 ## Installation
 To run this notebook, ensure you have Jupyter installed along with the necessary libraries. You can install the required libraries using:
 
