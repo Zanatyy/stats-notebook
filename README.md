@@ -64,5 +64,3 @@ A summary of the findings from the analyses, highlighting insights gained from d
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to make any more adjustments or let me know if you need further assistance!
